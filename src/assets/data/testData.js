@@ -147,3 +147,183 @@ export const bannerVideoData = {
   btnText2: "Start for free, then get your first 3 months for $1/mo.",
   btnText3: "Watch the Captake story",
 };
+
+export const productCardData = {
+  phones: {
+    title: "PHONES",
+    products: "12 Products",
+    data: [
+      {
+        name: "Desktop Gamer Las Vegas",
+        price: "$65.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/desktop-product-1-400x400.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/microsoft-tablet-1-400x400.jpg",
+      },
+      {
+        name: "Desktop TTX Gamer",
+        price: "$70.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/desktop-product-1-400x400.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/electronic-cat3-400x400.jpg",
+      },
+      {
+        name: "Galaxy S10+ Dual SIM",
+        price: "$65.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/phone-cat1-300x300.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/10/electronic-cat1-400x400.jpg",
+      },
+      {
+        name: "Gaming Computer",
+        price: "$20.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/desktop-product-1-400x400.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/electronic-cat4-400x400.jpg",
+      },
+    ],
+  },
+  electrics: {
+    title: "ELECTRONICS",
+    products: "9 Products",
+    data: [
+      {
+        name: "Auto Bidding (Proxy)",
+        price: "$65.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/10/electronic-cat1-400x400.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/microsoft-tablet-1-400x400.jpg",
+      },
+      {
+        name: "Bluetooth Headphones",
+        price: "$70.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/electronic-cat2-400x400.jpg ",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/electronic-cat3-400x400.jpg",
+      },
+      {
+        name: "Desktop TTX Gamer",
+        price: "$70.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/desktop-product-1-400x400.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/10/electronic-cat1-400x400.jpg",
+      },
+      {
+        name: "Dual Sim Smart Phone",
+        price: "$410.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2017/06/mobile_prod1-1-300x300.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/electronic-cat4-400x400.jpg",
+      },
+    ],
+  },
+  laptops: {
+    title: "LAPTOPS",
+    products: "5 Products",
+    data: [
+      {
+        name: "Gaming Computer",
+        price: "$20.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/desktop-product-1-400x400.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/microsoft-tablet-1-400x400.jpg",
+      },
+      {
+        name: "Laptop Inspirion Core i7",
+        price: "$70.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/asus-laptop-1-300x300.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/electronic-cat3-400x400.jpg",
+      },
+      {
+        name: "Laptop Latitude d3300",
+        price: "$50.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/asus-laptop-1-300x300.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/10/electronic-cat1-400x400.jpg",
+      },
+      {
+        name: "Magic Mouse v2",
+        price: "$45.00",
+        imageOne:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/laptop-cat2-300x300.jpg",
+        imageTwo:
+          "https://ibid.modeltheme.com/wp-content/uploads/2018/09/electronic-cat4-400x400.jpg",
+      },
+    ],
+  },
+};
+
+export const productSliderData = [
+  {
+    name: "Most Popular",
+    title: "5G Smartphones",
+    rating: 5.0,
+    image:
+      "https://s.alicdn.com/@sc04/kf/H8dd6531920d141269b29250d9359e112A.jpg_350x350.jpg",
+    images: [
+      "https://s.alicdn.com/@sc04/kf/Hbc1ca027fbef4e05a169f57143102faeu.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/Hc1cb2f60e98148ea853468e81399560fh.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/H8dd6531920d141269b29250d9359e112A.jpg_350x350.jpg",
+    ],
+  },
+  {
+    name: "Most Popular",
+    title: "Rubber Smart Watches",
+    rating: 5.0,
+    image:
+      "https://s.alicdn.com/@sc04/kf/Hb8d481a0ec2e4779be411159a64d5f3bg.png_350x350.jpg",
+    images: [
+      "https://s.alicdn.com/@sc04/kf/H415d967616874549853df48370d6f29a5.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/Hd82b58ac31c14ddeb0aa8327a5f00d7aG.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/Hbcc99bd5a51e4026ae890025313d3397m.jpg_350x350.jpg",
+    ],
+  },
+  {
+    name: "Most Popular",
+    title: "Dress Shoe For Men",
+    rating: 5.0,
+    image:
+      "https://s.alicdn.com/@sc04/kf/HTB1Kb.ZbdfvK1RjSspoxh6fNpXaR.jpeg_350x350.jpg",
+    images: [
+      "https://s.alicdn.com/@sc04/kf/H0858778032524193a9b51830ea8084b47.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/Hff205fdcc8994973a9cbd8033f6254dfJ.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/H32b648d9385b4f52aba30db2baadb8a0e.jpg_350x350.jpg",
+    ],
+  },
+  {
+    name: "Most Popular",
+    title: "loose Wave Wigs",
+    rating: 5.0,
+    image:
+      "https://s.alicdn.com/@sc04/kf/H4d02a21c818649caa154b340efb6caa7q.jpg_350x350.jpg",
+    images: [
+      "https://s.alicdn.com/@sc04/kf/Hd09b23d3ab484d8fa65eb7bb9e296efcv.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/H6431477f1b344a33b8d5fe4b0b8087eal.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/H03870931e53f40b3a36d6458d38e1a97f.jpg_350x350.jpg",
+    ],
+  },
+  {
+    name: "Most Popular",
+    title: "Freight Agent From Shenzhen",
+    rating: 5.0,
+    image:
+      "https://s.alicdn.com/@sc04/kf/H53de4b57c0a0462183e8c0424c46b820q.jpg_350x350.jpg",
+    images: [
+      "https://s.alicdn.com/@sc04/kf/Hd09b23d3ab484d8fa65eb7bb9e296efcv.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/H6431477f1b344a33b8d5fe4b0b8087eal.jpg_350x350.jpg",
+      "https://s.alicdn.com/@sc04/kf/H8dd6531920d141269b29250d9359e112A.jpg_350x350.jpg",
+    ],
+  },
+];
